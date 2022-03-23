@@ -15,4 +15,4 @@ How-to-use:
 
 Using Remotely is fairly simple.
 
-Once you have installed Remotely
+Once you have installed Remotely, please ensure that
