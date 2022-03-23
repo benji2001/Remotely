@@ -11,3 +11,8 @@ Technologies:
 Python3
 
 
+How-to-use:
+
+Using Remotely is fairly simple.
+
+Once you have installed Remotely
